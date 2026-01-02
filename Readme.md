@@ -7,8 +7,12 @@ You can see the original file in:
 https://github.com/CarlosSenobio/d-link-dwa-171-wifi-adapter-automatic-driver-installer?tab=readme-ov-file
 
 ## How to use
+
+### Clone repositorie
 git clone https://github.com/luskywarrior/D-Link-DWA-171-Fedora-Linux
+
 ### Installing Dependencies (you need colorama)
 pip3 install -r requirements.txt 
+
 ### Run the Script
 python3 main.py
