@@ -1,1 +1,6 @@
-This file is an adaptation of a pre-existing driver for the D-Link 171 wireless adapter for Ubuntu. From it, I modified commands like sudo apt to sudo dnf, added a check for previous driver versions, and searched for an updated driver version.
+How to use
+git clone https://github.com/luskywarrior/D-Link-DWA-171-Fedora-Linux
+# Installing Dependencies (you need colorama)
+pip3 install -r requirements.txt 
+# Run the Script
+python3 main.py
