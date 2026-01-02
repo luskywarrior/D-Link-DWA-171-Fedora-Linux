@@ -9,10 +9,13 @@ https://github.com/CarlosSenobio/d-link-dwa-171-wifi-adapter-automatic-driver-in
 ## How to use
 
 ### Clone repositorie
-```bash git clone https://github.com/luskywarrior/D-Link-DWA-171-Fedora-Linux```
+```bash
+git clone https://github.com/luskywarrior/D-Link-DWA-171-Fedora-Linux```
 
 ### Installing Dependencies (you need colorama)
-```bash pip3 install -r requirements.txt```
+```bash
+pip3 install -r requirements.txt```
 
 ### Run the Script
-```bash python3 main.py```
+```bash
+python3 main.py```
