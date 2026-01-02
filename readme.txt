@@ -1,0 +1,1 @@
+This file is an adaptation of a pre-existing driver for the D-Link 171 wireless adapter for Ubuntu. From it, I modified commands like sudo apt to sudo dnf, added a check for previous driver versions, and searched for an updated driver version.
